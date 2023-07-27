@@ -114,6 +114,11 @@ const main = async () => {
     }
   }
 
-  rl.close();
+  rl && rl.close();
 };
-main().catch((err) => console.error(err));
+module.exports = {
+  readEnvFile,
+  saveEnvFile,
+  createGithubRepo,
+  main
+}
