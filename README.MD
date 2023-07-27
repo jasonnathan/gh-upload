@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/github/workflow/status/jasonnathan/gh-upload/CI%20-%20Run%20Tests?logo=github&style=flat-square)](https://github.com/jasonnathan/gh-upload/actions)
 [![Test Coverage](https://img.shields.io/codecov/c/gh/jasonnathan/gh-upload?logo=codecov&style=flat-square)](https://codecov.io/gh/jasonnathan/gh-upload)
-[![License](https://img.shields.io/github/license/jasonnathan/gh-upload?style=flat-square)](https://github.com/jasonnathan/gh-upload/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/jasonnathan/gh-upload?style=flat-square)](https://github.com/jasonnathan/gh-upload/blob/master/LICENSE)
 
 
 This script allows you to create new GitHub repositories for local folders and push their contents to the corresponding GitHub organization. It is written in Node.js and utilizes various npm packages to interact with the GitHub API and perform Git operations.
