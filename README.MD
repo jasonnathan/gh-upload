@@ -1,6 +1,6 @@
 # GitHub Repo Push Script
 
-[![Build Status](https://img.shields.io/github/workflow/status/jasonnathan/gh-upload/CI%20-%20Run%20Tests?logo=github&style=flat-square)](https://github.com/jasonnathan/gh-upload/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/jasonnathan/gh-upload/tests.yml?branch=master&logo=github&style=flat-square)](https://github.com/jasonnathan/gh-upload/actions)
 [![Test Coverage](https://img.shields.io/codecov/c/gh/jasonnathan/gh-upload?logo=codecov&style=flat-square)](https://codecov.io/gh/jasonnathan/gh-upload)
 [![License](https://img.shields.io/github/license/jasonnathan/gh-upload?style=flat-square)](https://github.com/jasonnathan/gh-upload/blob/master/LICENSE)
 
